@@ -1,0 +1,16 @@
+{
+  "name": "BatteryLives",
+  "version": "0.0.0",
+  "description": "BatteryLives",
+  "main": "server.js",
+  "author": {
+    "name": "Prashant Kamdar",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongodb": "^2.0.46",
+    "mongoose": "^4.1.11",
+    "vash": "^0.10.0"
+  }
+}
